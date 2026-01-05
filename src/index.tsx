@@ -341,7 +341,7 @@ app.get('/', (c) => {
                             <span>GitHub</span>
                         </a>  -->
 
-                        <a href="https://linkedin.com" target="_blank" class="contact-method">
+                        <a href="https://www.linkedin.com/in/vladislav-chernukha-6a0238305/" target="_blank" class="contact-method">
                             <i class="fab fa-linkedin"></i>
                             <span>LinkedIn</span>
                         </a>

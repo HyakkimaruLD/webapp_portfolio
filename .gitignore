@@ -1,6 +1,9 @@
 # Dependencies
 node_modules/
 
+# Python virtual environment
+venv/
+
 # Runtime data
 pids
 *.pid
